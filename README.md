@@ -7,4 +7,4 @@ ActiveMQ 5.5+
 JMeter2.9
 
 Pre-condition:
-You need put ActiveMQ.jar into JMeter lib.
+You need put activemq-all-X.X.X.jar into JMeter lib.
